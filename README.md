@@ -1,6 +1,5 @@
-## Hey!! I'm Math(and I'm not an object with mathematical properties hehe) 👋
+## Hey!! I'm Math (and I'm not an object with mathematical properties hehe) 👋
 
----
 ### 🦝 About me:
 
 My name is Matheus and have 20y.
