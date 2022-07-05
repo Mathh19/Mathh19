@@ -40,5 +40,3 @@ with Node.
 </div>
 
 ##
-
-![Snake animation](https://github.com/Mathh19/Mathh19/blob/output/github-contribution-grid-snake.svg)
