@@ -2,7 +2,7 @@
 
 ### 🦝 About me:
 
-My name is Matheus and have 20y.
+My name is Matheus and have 21y.
 
 - I'm studying to be a web developer
 - I’m currently learning front-end with React and Next but in the future i want to study more in depth about the backend 
