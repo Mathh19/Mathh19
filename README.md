@@ -4,7 +4,7 @@
 
 My name is Matheus and have 21y.
 
-- I'm studying to be a web developer
+- I am studying to be a web developer for about 1y
 - I’m currently learning front-end with React and Next but in the future i want to study more in depth about the backend 
 with Node.
 - I like about gamedev and sometimes in my spare time I study about.
