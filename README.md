@@ -12,21 +12,24 @@ with Node.
 ##
 
 ### 🔧 Skills:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Math-HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
   <img align="center" alt="Math-Js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt="Math-Ts" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
-  <br/>
-  <img align="center" alt="Math-Node" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+  <p></p>
   <img align="center" alt="Math-React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+  <img align="center" alt="Math-Next" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
+  <img align="center" alt="Math-Node" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
   <img align="center" alt="Math-Git" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
-  <img align="center" alt="Math-Vscode" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
-  <br/>
-  <img align="center" alt="Math-Npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+  <p></p>
   <img align="center" alt="Math-Heroku" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Heroku.svg">
   <img align="center" alt="Math-Jest" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg">
+  <img align="center" alt="Math-Vscode" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
+  <img align="center" alt="Math-Markdown" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg">
+  <p></p>
   <img align="center" alt="Math-Eslint" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
+  <img align="center" alt="Math-Npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
 </div>
 
 ##
