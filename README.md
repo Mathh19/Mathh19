@@ -1,9 +1,9 @@
+## Hey!! I'm Math (and I'm not an object with mathematical properties hehe) 👋
+
 <div align="center">
 <img alt="pixel art gif of a boy programming" src="https://res.cloudinary.com/ddiiakz1t/image/upload/v1670347611/readme-gifs/gif-code_ku7amz.webp">
 </div>
 
-## Hey!! I'm Math (and I'm not an object with mathematical properties hehe) 👋
-  
 ### 🦝 About me:
 
 My name is Matheus and have 21y.
