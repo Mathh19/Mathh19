@@ -34,6 +34,7 @@ with Node.
   <p></p>
   <img align="center" alt="Math-Eslint" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
   <img align="center" alt="Math-Npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Math-Graphql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
 </div>
 
 ##
