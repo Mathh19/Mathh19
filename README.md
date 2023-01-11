@@ -32,9 +32,9 @@ with Node.
   <img align="center" alt="Math-Vscode" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
   <img align="center" alt="Math-Markdown" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg">
   <p></p>
+  <img align="center" alt="Math-Graphql" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg">
   <img align="center" alt="Math-Eslint" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
   <img align="center" alt="Math-Npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="Math-Graphql" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg">
 </div>
 
 ##
