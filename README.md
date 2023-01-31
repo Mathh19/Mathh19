@@ -15,8 +15,12 @@ with Node.
 
 ##
 
+<div>
+  <img align="right" height="230" alt="gif-anime-typing" src="https://res.cloudinary.com/ddiiakz1t/image/upload/v1675123284/images-github/anime-programming_j3koci.gif">
+</div>
+
 ### 🔧 Skills:
-<div style="display: inline_block">
+<div>
   <img align="center" alt="Math-HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
   <img align="center" alt="Math-Js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
@@ -40,6 +44,7 @@ with Node.
 ##
 
 ### 🔎 Find me:
+
 <div>
   <a href = "mailto:eumathfreitas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/mathexe_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
