@@ -15,9 +15,8 @@ with Node.
 
 ##
 
-<div>
-  <img align="right" height="230" alt="gif-anime-typing" src="https://res.cloudinary.com/ddiiakz1t/image/upload/v1675123284/images-github/anime-programming_j3koci.gif">
-</div>
+<img align="right" height="230" alt="gif-anime-typing" src="https://res.cloudinary.com/ddiiakz1t/image/upload/v1675123284/images-github/anime-programming_j3koci.gif">
+
 
 ### 🔧 Skills:
 <div>
