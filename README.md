@@ -1,4 +1,4 @@
-## Hey!! I'm Math (and I'm not an object with mathematical properties hehe) 👋
+## Hey!! I'm Math 👋
 
 <div align="center">
   <img height="250" alt="A gif of hands typing" src="https://res.cloudinary.com/ddiiakz1t/image/upload/v1675205182/images-github/code_d3iczn.gif">
