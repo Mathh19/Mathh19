@@ -1,7 +1,7 @@
 ## Hey!! I'm Math 👋
 
 <div align="center">
-  <img height="250" alt="A gif of hands typing" src="https://res.cloudinary.com/ddiiakz1t/image/upload/v1675205182/images-github/code_d3iczn.gif">
+  <img height="250" alt="gif-anime-typing" src="https://res.cloudinary.com/ddiiakz1t/image/upload/v1675123284/images-github/anime-programming_j3koci.gif">
 </div>
 
 ### 🦝 About me:
@@ -14,9 +14,6 @@ with Node.
 - I like about gamedev and sometimes in my spare time I study about.
 
 ##
-
-<img align="right" height="230" alt="gif-anime-typing" src="https://res.cloudinary.com/ddiiakz1t/image/upload/v1675123284/images-github/anime-programming_j3koci.gif">
-
 
 ### 🔧 Tech Skills:
 <div>
