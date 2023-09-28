@@ -30,15 +30,8 @@ with Node.
   <img align="center" alt="Math-React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
   <img align="center" alt="Math-Next" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
   <p></p>
-  <img align="center" alt="Math-Heroku" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Heroku.svg">
-  <img align="center" alt="Math-Jest" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg">
-  <img align="center" alt="Math-Vscode" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
-  <img align="center" alt="Math-Markdown" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg">
-  <p></p>
   <img align="center" alt="Math-Tailwind" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
   <img align="center" alt="Math-Graphql" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg">
-  <img align="center" alt="Math-Eslint" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg">
-  <img align="center" alt="Math-Npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
 </div>
 
 ##
