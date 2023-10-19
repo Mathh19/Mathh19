@@ -17,18 +17,18 @@ with Node.
 
 ### 🔧 Tech Skills:
 <div>
-  <img align="center" alt="Math-HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-  <img align="center" alt="Math-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-  <img align="center" alt="Math-Js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-  <img align="center" alt="Math-Ts" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+  <img align="center" alt="Math-HTML" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+  <img align="center" alt="Math-CSS" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+  <img align="center" alt="Math-Js" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img align="center" alt="Math-Ts" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
   <p></p>
-  <img align="center" alt="Math-Node" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
-  <img align="center" alt="Math-Git" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
-  <img align="center" alt="Math-React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
-  <img align="center" alt="Math-Next" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
+  <img align="center" alt="Math-Node" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+  <img align="center" alt="Math-Git" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+  <img align="center" alt="Math-React" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+  <img align="center" alt="Math-Next" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
   <p></p>
-  <img align="center" alt="Math-Tailwind" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
-  <img align="center" alt="Math-Graphql" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg">
+  <img align="center" alt="Math-Tailwind" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
+  <img align="center" alt="Math-Graphql" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg">
 </div>
 
 ##
