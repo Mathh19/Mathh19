@@ -1,7 +1,7 @@
 ## Hey!! I'm Math 👋
 
 <div align="center">
-  <img height="250" alt="gif-anime-typing" src="https://res.cloudinary.com/ddiiakz1t/image/upload/v1698948924/images-github/ezgif.com-gif-maker_qkszte.gif">
+  <img height="250" alt="gif-anime-typing" src="https://res.cloudinary.com/ddiiakz1t/image/upload/v1698974764/images-github/9TLY_cz1vcf.gif">
 </div>
 
 ### 🦝 About me:
