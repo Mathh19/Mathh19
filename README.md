@@ -2,8 +2,6 @@
 
 ### 🦝 About me:
 
-My name is Matheus and have 23y.
-
 - I am currently a front-end developer.
 - I like about gamedev and sometimes in my spare time I study about.
 
