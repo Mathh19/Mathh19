@@ -1,4 +1,4 @@
-## Hey!! I'm Math 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B5CF6&width=435&lines=Hey!!+I'm+Math+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### 🦝 About me:
 
